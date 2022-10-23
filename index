@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Index</title>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Musings</h1>
+    </div>
+    
+    <div class="entry">
+        <p class="entry-title">First Entry</p>
+        <p class="date">10.23.2022</p>
+        <p class="entry-text">place place place place holder holder holder holder</p>
+    </div>
+
+</body>
+
+</html>
