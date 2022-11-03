@@ -10,6 +10,18 @@ html, body {
     margin: 0px;
     background-color: bisque;
   }
+
+  .home-button {
+    padding: 4px 6px 4px 6px;
+    border: blueviolet 2px solid;
+    border-radius: 15px;
+    margin: 6px 0px -8px 25px;
+    text-decoration: none;
+  }
+
+  .home-button:hover {
+    background-color: yellow;
+  }
   
   .header {
     display: flex;
