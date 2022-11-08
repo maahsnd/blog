@@ -19,6 +19,10 @@ html, body {
     text-decoration: none;
   }
 
+  .monthLink:hover {
+    background-color: #da8bcf;
+  }
+
   .home-button:hover {
     background-color: yellow;
   }
